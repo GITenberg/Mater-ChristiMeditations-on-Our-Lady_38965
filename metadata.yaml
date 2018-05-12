@@ -1,0 +1,37 @@
+_repo: Mater-ChristiMeditations-on-Our-Lady_38965
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Rickaby, Joseph
+    alias: Rickaby, Joseph John
+    birthdate: 1845
+    deathdate: 1932
+    gutenberg_agent_id: '2643'
+    url: http://www.gutenberg.org/2009/agents/2643
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: St. Paul, Mother
+    aliases:
+    - Saint Paul, Mother
+    - Paul, Mother St.
+    birthdate: 1861
+    deathdate: 1940
+    gutenberg_agent_id: '39738'
+    url: http://www.gutenberg.org/2009/agents/39738
+description: ''
+gutenberg_issued: '2012-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mary, Blessed Virgin, Saint -- Meditations'
+- !lcc 'BT'
+title: 'Mater Christi: Meditations on Our Lady'
+url: http://www.gutenberg.org/ebooks/38965
